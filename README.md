@@ -220,7 +220,7 @@ http://localhost:3000/
 ![alt text](image.png)
 
 
-![alt text](image-1.png)
+![alt text](https://github.com/23101298-lab/mi-proyecto-so/blob/38c7e5ad05105cdbbf612b12fde6d99b6e2aeb79/demo/Captura%20de%20pantalla%202025-11-23%20230456.png)
 
 
 ![alt text](image-2.png)
@@ -238,3 +238,4 @@ http://localhost:3000/
 **Phi-3 Mini (Microsoft)** | Modelo de lenguaje liviano (3.8B) | https://huggingface.co/microsoft/phi-3-mini |
 **Docker + NVIDIA Toolkit** | Contenedores con GPU | https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/ |
 **Visual Studio Code** | Editor de código con vista previa Markdown | https://code.visualstudio.com |
+
